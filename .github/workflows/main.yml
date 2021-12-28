@@ -26,5 +26,7 @@ jobs:
       - uses: avinal/Profile-Readme-WakaTime@v3.0
         with: 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BRANCH: main
+          
 
       
