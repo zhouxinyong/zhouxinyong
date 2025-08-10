@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-08-09T01:58:47.272641</dc:date>
+    <dc:date>2025-08-10T02:19:56.513769</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -30,12 +30,12 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path clip-path="url(#pe480d649d7)" d="M 38.851562 27.358125 
+    <path clip-path="url(#pcaa38930c7)" d="M 38.851562 27.358125 
 L 570.280134 27.358125 
 L 570.280134 128.158125 
 L 38.851562 128.158125 
 z
-" style="fill:#ed2b06;stroke:#ed2b06;stroke-linejoin:miter;"/>
+" style="fill:#543b5d;stroke:#543b5d;stroke-linejoin:miter;"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2">
@@ -44,10 +44,10 @@ z
       <defs>
        <path d="M 0 0 
 L -3.5 0 
-" id="m6f97c64e21" style="stroke:#000000;stroke-width:0.8;"/>
+" id="md77d0bfc2e" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="38.851562" xlink:href="#m6f97c64e21" y="77.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="38.851562" xlink:href="#md77d0bfc2e" y="77.758125"/>
       </g>
      </g>
      <g id="text_1">
@@ -354,7 +354,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- From 01 August, 2025 to 08 August, 2025: 2 hrs 8 mins -->
+    <!-- From 02 August, 2025 to 09 August, 2025: 2 hrs 8 mins -->
     <g style="fill:#586069;" transform="translate(150.882812 16.318125)scale(0.12 -0.12)">
      <defs>
       <path d="M 628 4666 
@@ -412,20 +412,6 @@ Q 422 3509 836 4129
 Q 1250 4750 2034 4750 
 z
 " id="DejaVuSans-30" transform="scale(0.015625)"/>
-      <path d="M 794 531 
-L 1825 531 
-L 1825 4091 
-L 703 3866 
-L 703 4441 
-L 1819 4666 
-L 2450 4666 
-L 2450 531 
-L 3481 531 
-L 3481 0 
-L 794 0 
-L 794 531 
-z
-" id="DejaVuSans-31" transform="scale(0.015625)"/>
       <path d="M 2188 4044 
 L 1331 1722 
 L 3047 1722 
@@ -553,6 +539,36 @@ Q 953 2441 691 2322
 L 691 4666 
 z
 " id="DejaVuSans-35" transform="scale(0.015625)"/>
+      <path d="M 703 97 
+L 703 672 
+Q 941 559 1184 500 
+Q 1428 441 1663 441 
+Q 2288 441 2617 861 
+Q 2947 1281 2994 2138 
+Q 2813 1869 2534 1725 
+Q 2256 1581 1919 1581 
+Q 1219 1581 811 2004 
+Q 403 2428 403 3163 
+Q 403 3881 828 4315 
+Q 1253 4750 1959 4750 
+Q 2769 4750 3195 4129 
+Q 3622 3509 3622 2328 
+Q 3622 1225 3098 567 
+Q 2575 -91 1691 -91 
+Q 1453 -91 1209 -44 
+Q 966 3 703 97 
+z
+M 1959 2075 
+Q 2384 2075 2632 2365 
+Q 2881 2656 2881 3163 
+Q 2881 3666 2632 3958 
+Q 2384 4250 1959 4250 
+Q 1534 4250 1286 3958 
+Q 1038 3666 1038 3163 
+Q 1038 2656 1286 2365 
+Q 1534 2075 1959 2075 
+z
+" id="DejaVuSans-39" transform="scale(0.015625)"/>
       <path d="M 750 794 
 L 1409 794 
 L 1409 0 
@@ -573,7 +589,7 @@ z
      <use x="150.314453" xlink:href="#DejaVuSans-6d"/>
      <use x="247.726562" xlink:href="#DejaVuSans-20"/>
      <use x="279.513672" xlink:href="#DejaVuSans-30"/>
-     <use x="343.136719" xlink:href="#DejaVuSans-31"/>
+     <use x="343.136719" xlink:href="#DejaVuSans-32"/>
      <use x="406.759766" xlink:href="#DejaVuSans-20"/>
      <use x="438.546875" xlink:href="#DejaVuSans-41"/>
      <use x="506.955078" xlink:href="#DejaVuSans-75"/>
@@ -592,7 +608,7 @@ z
      <use x="1177.560547" xlink:href="#DejaVuSans-6f"/>
      <use x="1238.742188" xlink:href="#DejaVuSans-20"/>
      <use x="1270.529297" xlink:href="#DejaVuSans-30"/>
-     <use x="1334.152344" xlink:href="#DejaVuSans-38"/>
+     <use x="1334.152344" xlink:href="#DejaVuSans-39"/>
      <use x="1397.775391" xlink:href="#DejaVuSans-20"/>
      <use x="1429.5625" xlink:href="#DejaVuSans-41"/>
      <use x="1497.970703" xlink:href="#DejaVuSans-75"/>
@@ -625,7 +641,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pe480d649d7">
+  <clipPath id="pcaa38930c7">
    <rect height="110.88" width="558" x="38.851562" y="22.318125"/>
   </clipPath>
  </defs>
